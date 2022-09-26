@@ -2,7 +2,6 @@
 
 
 
-#netflix.clone
 
 ## Description
 Project aims to create survey form within html and css.
@@ -22,7 +21,7 @@ Project aims to create survey form within html and css.
 ## Project Skeleton 
 
 ```
-001-survey-form (folder)
+Netflix Clone
 |
 |----readme.md         # Given to the students (Definition of the project)          
 |----solution
@@ -37,7 +36,7 @@ Project aims to create survey form within html and css.
 
 ## Objective
 
-Functionally create a Survey Form as in the image above
+Functionally create a Netflix Clone as in the image above
 
 ### At the end of the project, following topics are to be covered;
 
@@ -64,7 +63,7 @@ Functionally create a Survey Form as in the image above
 
 - Step 2: Create project folder for local public repo on your pc
 
-- Step 3: Create Survey Form
+- Step 3: Create Netflix Clone
 
 >>Part-1 HTML Structure
 
@@ -73,7 +72,7 @@ Functionally create a Survey Form as in the image above
 	- Create the main structure of the container (div id="container")
 	- Create Main Topic of the project (id="title")
 	- Create a description of your project (id="description")
-	- Create a form (id="survey-form")
+	- Create a form (id="netflix clone")
 	- Create 4 divisions (class="box") for each label and single-line text input field (Tips:dont forget to use placeholder)
 	- Create a division (class="box") for a dropdown list. (Tips:dont forget to use a label tag)
 	- Create a division (class="box") for checkbox list
